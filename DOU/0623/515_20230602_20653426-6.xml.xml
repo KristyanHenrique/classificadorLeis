@@ -1,0 +1,13 @@
+﻿<xml><article id="32421378" name="2023-06-01 - RESOLUCAO 762 - Par" idOficio="9634986" pubName="DO1" artType="Resolução" pubDate="02/06/2023" artClass="00014:00020:00004:00017:00000:00000:00000:00000:00000:00000:00002:00010" artCategory="Ministério das Comunicações/Agência Nacional de Telecomunicações/Conselho Diretor/Secretaria do Conselho Diretor" artSize="12" artNotes="762 - 2" numberPage="26" pdfPage="http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=02/06/2023&amp;jornal=515&amp;pagina=26" editionNumber="105" highlightType="" highlightPriority="" highlight="" highlightimage="" highlightimagename="" idMateria="20653426">
+  <body>
+    <Identifica />
+    <Data><![CDATA[]]></Data>
+    <Ementa />
+    <Titulo />
+    <SubTitulo />
+    <Texto><![CDATA[<p>k: constante de Boltzmann, 1,38 x 10 <sup>-23</sup> J/K.</p><p>T <sub>e</sub> : temperatura de ruído do sistema receptor ( <sup>o</sup> K) na entrada do receptor (vide nota 3).</p><p>B: largura de banda efetiva do ruído do sistema receptor (MHz) na qual a potência de interferência é calculada pela média, a mesma será estimada igual á largura de banda de FI do receptor. Quando a largura de banda FI do receptor não for conhecida, considera-se a largura de banda necessária do sinal útil (Bn <sub>U</sub> ) correspondente à estação receptora interferida.</p><p>J <sub>(n)</sub> : relação (dB) a longo prazo (durante 20% do tempo) entre a potência de interferência admissível proveniente de uma fonte interferente qualquer (I) e a potência do ruído térmico do sistema receptor (N). Assim,</p><img name="1_MCOM_2_007" />]]></Texto>
+  </body>
+  <Midias>
+    <Midia></Midia>
+  </Midias>
+</article></xml>

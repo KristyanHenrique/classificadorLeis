@@ -1,0 +1,13 @@
+﻿<xml><article id="32271442" name="Port 169_5" idOficio="9615618" pubName="DO1" artType="Portaria" pubDate="25/05/2023" artClass="00019:00038:00000:00000:00000:00000:00000:00000:00000:00000:00054:00000" artCategory="Ministério do Desenvolvimento, Indústria, Comércio e Serviços/Instituto Nacional de Metrologia, Qualidade e Tecnologia" artSize="12" artNotes="OK IMAGEM" numberPage="303" pdfPage="http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=25/05/2023&amp;jornal=515&amp;pagina=303" editionNumber="99" highlightType="" highlightPriority="" highlight="" highlightimage="" highlightimagename="" idMateria="20626877">
+  <body>
+    <Identifica />
+    <Data><![CDATA[]]></Data>
+    <Ementa />
+    <Titulo />
+    <SubTitulo />
+    <Texto><![CDATA[<p>Onde:</p><p>CEC: Consumo Energético Combinado urbano e estrada</p><p>CEU: Consumo Energético Urbano</p><p>CEE: Consumo Energético Estrada</p><p>E.1.1.2 O Consumo Energético (CE) nos ciclos urbano ou estrada quando usando combustível líquido ou gasoso do veículo a combustão deverá ser calculado de acordo com a equação:</p><p>CE = DE / A</p><p>Onde:</p><p>CE - Consumo Energético em MJ/km nos ciclos urbano ou estrada</p><p>A - autonomia em km/l ou km/m3 nos ciclos urbano ou estrada</p><p>DE - densidade energética do combustível em MJ/l ou MJ/m3</p><p>E.1.1.3 O Consumo Energético (CE) nos ciclos urbano ou estrada quando usando mais de um tipo de combustível - veículo a combustão flex fuel - será o resultado da média aritmética entre os consumos energéticos combinados (CEC) usando cada um dos combustíveis consumidos.</p><p>E.1.1.4 O Consumo Energético (CE) nos ciclos urbano ou estrada quando usando exclusivamente energia elétrica do veículo elétrico a bateria (VEB) será dado em função do consumo combinado de energia elétrica de fonte externa ao veículo obtido conforme norma SAE J1634:2017 até que passe a vigorar publicada norma brasileira equivalente.</p><p>Nota: Para o ensaio para a medição do consumo energético dos VEB não devem ser utilizados os ciclos US06, SC03 e Cold FTP previstos na norma SAE J1634:2017.</p><p>E.1.1.5 A conversão do consumo de energia elétrica em Wh/km para MJ/km deverá ser calculado de acordo com a equação:</p><img name="1_MDIC_25_M1_003" />]]></Texto>
+  </body>
+  <Midias>
+    <Midia></Midia>
+  </Midias>
+</article></xml>

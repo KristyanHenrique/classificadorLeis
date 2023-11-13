@@ -1,0 +1,13 @@
+﻿<xml><article id="32422654" name="2023-06-01 - RESOLUCAO 762 - Par" idOficio="9635049" pubName="DO1" artType="Resolução" pubDate="02/06/2023" artClass="00014:00020:00004:00017:00000:00000:00000:00000:00000:00000:00002:00025" artCategory="Ministério das Comunicações/Agência Nacional de Telecomunicações/Conselho Diretor/Secretaria do Conselho Diretor" artSize="12" artNotes="762 - 3" numberPage="28" pdfPage="http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=02/06/2023&amp;jornal=515&amp;pagina=28" editionNumber="105" highlightType="" highlightPriority="" highlight="" highlightimage="" highlightimagename="" idMateria="20653449">
+  <body>
+    <Identifica />
+    <Data><![CDATA[]]></Data>
+    <Ementa />
+    <Titulo />
+    <SubTitulo />
+    <Texto><![CDATA[<p>3.4.14 A altura auxiliar para o cálculo do raio de curvatura do obstáculo se expressa em metros (m) se define como a altura da obstrução medida a partir de uma paralela à reta que une as antenas transmissora e receptora e que passa debaixo dela a uma distância de 0,6 Rf (figura 2) ou seja:</p><p>ho (m) = 0,6 Rf (m) - C(m)</p><p>NOTA: Se o obstáculo for do tipo terra esférica lisa, passar para o Item 3.4.16, sem avaliar este parâmetro.</p><p>3.4.15 O trecho auxiliar para o cálculo do raio de curvatura do obstáculo se expressa em quilômetros, e se define como o trecho que resulta da interseção do terreno com a reta traçada para medir h <sub>o</sub> : (ver Figura 2)</p><p>- Quando esta reta não intercepta o terreno em nenhum ponto, toma-se A = L</p><p>- Quando esta reta intercepta o terreno em um só ponto do perfil do terreno, considera-se que o outro ponto de interseção encontra-se do outro lado do obstáculo e no ponto de localização da estação correspondente.</p><p>- Quando esta reta intercepta mais de dois pontos do terreno se tomará os pontos que definam o maior valor de A.</p><p>- Quando há dúvida na aplicação do expresso anteriormente, deve traçar-se a elipsoide de 0,6 Rf e tomar o valor de A entre os pontos em que a elipsoide intercepta o terreno, que resulte o maior valor de A.</p><p>3.4.16 O raio de curvatura do obstáculo se expressa em quilômetros e seu valor será calculado da seguinte forma:</p><img name="1_MCOM_2_024" />]]></Texto>
+  </body>
+  <Midias>
+    <Midia></Midia>
+  </Midias>
+</article></xml>

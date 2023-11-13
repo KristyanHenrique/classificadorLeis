@@ -1,0 +1,13 @@
+﻿<xml><article id="32421366" name="2023-06-01 - RESOLUCAO 762 - Par" idOficio="9634986" pubName="DO1" artType="Resolução" pubDate="02/06/2023" artClass="00014:00020:00004:00017:00000:00000:00000:00000:00000:00000:00002:00006" artCategory="Ministério das Comunicações/Agência Nacional de Telecomunicações/Conselho Diretor/Secretaria do Conselho Diretor" artSize="12" artNotes="762 - 2" numberPage="26" pdfPage="http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=02/06/2023&amp;jornal=515&amp;pagina=26" editionNumber="105" highlightType="" highlightPriority="" highlight="" highlightimage="" highlightimagename="" idMateria="20653426">
+  <body>
+    <Identifica />
+    <Data><![CDATA[]]></Data>
+    <Ementa />
+    <Titulo />
+    <SubTitulo />
+    <Texto><![CDATA[<p>sendo:</p><p>I <sub>Total</sub> : interferência global (dBm) para 20% do tempo.</p><p>N: ruído térmico do receptor (dBm).</p><p>Para uma degradação do limiar igual a 3 dB (&#916;&nbsp;N =3) se verificará a relação I <sub>Total</sub> (dBm) - N (dBm) = 0 dB, onde o nível do sinal interferente global é igual ao ruído térmico do receptor, ou seja:</p><p>I <sub>Total</sub> (dBm) = N (dBm), para &#916;&nbsp;N = 3 dB</p><p>Para n fontes de interferência de igual nível e longo período de tempo (próximo do valor médio, 20% do tempo) podemos supor que todas interferências procedentes de todas as fontes são produzidas simultaneamente e se somam, ou seja:</p><img name="1_MCOM_2_003" />]]></Texto>
+  </body>
+  <Midias>
+    <Midia></Midia>
+  </Midias>
+</article></xml>

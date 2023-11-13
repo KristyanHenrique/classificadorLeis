@@ -1,0 +1,13 @@
+﻿<xml><article id="32112030" name="Portaria-funai-669_2" idOficio="9595969" pubName="DO1" artType="Portaria" pubDate="16/05/2023" artClass="00042:00017:00000:00000:00000:00000:00000:00000:00000:00000:00054:00000" artCategory="Ministério dos Povos Indígenas/Fundação Nacional dos Povos Indígenas" artSize="12" artNotes="" numberPage="83" pdfPage="http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=16/05/2023&amp;jornal=515&amp;pagina=83" editionNumber="92" highlightType="" highlightPriority="" highlight="" highlightimage="" highlightimagename="" idMateria="20600140">
+  <body>
+    <Identifica />
+    <Data><![CDATA[]]></Data>
+    <Ementa />
+    <Titulo />
+    <SubTitulo />
+    <Texto><![CDATA[<p>No caso de doação por entidades privadas, órgãos de outras esferas e Receita Federal, recomenda-se a incorporação dos bens pelo módulo Estoque do SiadsWeb, por meio do qual será registrada a entrada do material permanente e, consequentemente, o evento contábil na conta correspondente no Siafi. Caso não seja utilizado o módulo Estoque, a unidade de administração de patrimônio deverá providenciar, além do registro via Siads (tela preta), o encaminhamento das informações necessárias para que o setor financeiro proceda à incorporação contábil por meio de lançamento patrimonial do tipo PA, geralmente usando os seguintes eventos, sem prejuízo de utilização de outros:</p><p /><p></p><table><tr /><tr><td rowspan="1" colspan="1"><p>Código: IMB059 Título: INCORPORAÇÃO DE BENS MÓVEIS NO IMOBILIZADO POR OUTROS GANHOS. Descrição: Registra a incorporação de bens móveis no imobilizado da UG por outros ganhos</p></td></tr><tr><td rowspan="1" colspan="1"><p>e</p></td></tr><tr><td rowspan="1" colspan="1"><p>Código: IMB061 Título: INCORPORAÇÃO DE BENS MOVEIS NO IMOBILIZADO POR DOAÇÃO, CESSÃO OU COMODATO Descrição: Registra a apropriação de bem móvel incorporado na UG por doação, cessão ou comodato.</p></td></tr></table><p>5. DO RECEBIMENTO DE BENS SEMOVENTES</p><p>Os bens semoventes devem ser incorporados como bens móveis (apenas as matrizes e os reprodutores), na conta contábil 12311.10.00 - Semoventes, sendo o restante considerado como bens de consumo, por se destinarem ao abate, à pesquisa e à extensão. A metodologia de recebimento e incorporação é a mesma descrita para o caso de bens permanentes.</p><p>Quando do nascimento de semoventes, é necessária a emissão de certidão por veterinário, devendo ser observado o fluxo a seguir:</p><p>Fluxograma 02 - FLUXOGRAMA DE RECEBIMENTO DE BENS SEMOVENTES</p><img name="1_MPI_16_M1_002" />]]></Texto>
+  </body>
+  <Midias>
+    <Midia></Midia>
+  </Midias>
+</article></xml>

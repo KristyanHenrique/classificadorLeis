@@ -1,0 +1,13 @@
+﻿<xml><article id="32815384" name="Portaria 626-Rep_3" idOficio="9683947" pubName="DO1" artType="Portaria" pubDate="29/06/2023" artClass="00027:00034:00000:00000:00000:00000:00000:00000:00000:00000:00024:00003" artCategory="Ministério da Fazenda/Secretaria do Tesouro Nacional" artSize="12" artNotes="IMAGEM" numberPage="227" pdfPage="http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=29/06/2023&amp;jornal=515&amp;pagina=227" editionNumber="122" highlightType="" highlightPriority="" highlight="" highlightimage="" highlightimagename="" idMateria="20721451">
+  <body>
+    <Identifica />
+    <Data><![CDATA[]]></Data>
+    <Ementa />
+    <Titulo />
+    <SubTitulo />
+    <Texto><![CDATA[<p>Gráfico 2 - Cobertura do PIB dos municípios que entraram na consolidação desde 2015.</p><p>O envio da Declaração de Contas Anuais ao Siconfi pode ser efetuado por:</p><p>· preenchimento dos dados em um formulário web;</p><p>· carregamento de uma planilha com os dados. O ente gera a planilha no Siconfi, preenche os dados e carrega a planilha;</p><p>· carregamento de uma instância XBRL (Extensible Business Reporting Language);</p><p>· geração automática do rascunho por meio do carregamento da Matriz de Saldos Contábeis. A MSC pode ser carregada tanto em formato CSV ("comma-separated-values" - valores separados por vírgulas) quanto em formato XBRL.</p><p>Essa geração automática do rascunho da Declaração de Contas Anuais (DCA), por meio do processamento da Matriz de Saldos Contábeis (MSC) de encerramento, está disponível no Siconfi desde 2019, sendo um procedimento que traz relevante ganho de produtividade e de qualidade da informação.</p><p>Observa-se no Gráfico 3 abaixo que apenas um estado não gerou o rascunho da sua DCA a partir do processamento da MSC, mantendo o mesmo patamar desde 2020. No Gráfico 4 constata-se o aumento significativo de 15% (de 73% para 88%) da geração do rascunho da DCA a partir da MSC pelos municípios que participaram da consolidação.</p><img name="1_MF_29_003" />]]></Texto>
+  </body>
+  <Midias>
+    <Midia></Midia>
+  </Midias>
+</article></xml>

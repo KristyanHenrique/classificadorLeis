@@ -1,0 +1,13 @@
+﻿<xml><article id="32421372" name="2023-06-01 - RESOLUCAO 762 - Par" idOficio="9634986" pubName="DO1" artType="Resolução" pubDate="02/06/2023" artClass="00014:00020:00004:00017:00000:00000:00000:00000:00000:00000:00002:00008" artCategory="Ministério das Comunicações/Agência Nacional de Telecomunicações/Conselho Diretor/Secretaria do Conselho Diretor" artSize="12" artNotes="762 - 2" numberPage="26" pdfPage="http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=02/06/2023&amp;jornal=515&amp;pagina=26" editionNumber="105" highlightType="" highlightPriority="" highlight="" highlightimage="" highlightimagename="" idMateria="20653426">
+  <body>
+    <Identifica />
+    <Data><![CDATA[]]></Data>
+    <Ementa />
+    <Titulo />
+    <SubTitulo />
+    <Texto><![CDATA[<p>sendo:</p><p>n: número efetivo de interferências simultâneas de igual nível previstas para 20% do tempo, deve ser repartido entre as estações interferentes do Serviço Fixo Terrestre, n <sub>terrestre</sub> , e as correspondentes às estações interferentes de outros sistemas não terrestres, n <sub>não-terrestre</sub> (as estações terrenas do Serviço Fixo de por Satélite). Assim,</p><p /><p></p><table><tr><td rowspan="1" colspan="1"><p><em></em></p><p><em>n</em>=<em>n</em> <sub>terrenal</sub> +<em>n</em> <sub>no-terrenal</sub> =</p></td><td rowspan="1" colspan="1"><p>{</p></td><td rowspan="1" colspan="1"><p>10, para Banda C (<em>n</em> <sub>terrenal</sub> =<em>n</em> <sub>no-terrenal</sub> = 5).</p><p>4, para Banda Ku (<em>n</em> <sub>terrenal</sub> =<em>n</em> <sub>no-terrenal</sub> = 2)</p></td></tr></table><p>I: nível do sinal de uma fonte interferente qualquer (dBm) para 20% do tempo.</p><p>Nota 2: O nível de potência máxima interferente admissível, excedido em 20% do tempo, na entrada do receptor de uma estação terrestre (sistema multicanais digitais) pode ser expresso como a potência radioelétrica interferente Pi <sub>máx</sub> , procedente de qualquer das n fontes de interferência simultânea de níveis iguais, na largura de banda efetiva do ruído B do sistema receptor, que degrada o limiar &#8804;&nbsp;3 dB para uma BER = 10 <sup>-3</sup> . O valor de Pi <sub>máx</sub> pode ser determinado pela seguinte expressão:</p><img name="1_MCOM_2_005" />]]></Texto>
+  </body>
+  <Midias>
+    <Midia></Midia>
+  </Midias>
+</article></xml>

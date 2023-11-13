@@ -1,0 +1,13 @@
+﻿<xml><article id="32271469" name="Port 169_14" idOficio="9615618" pubName="DO1" artType="Portaria" pubDate="25/05/2023" artClass="00019:00038:00000:00000:00000:00000:00000:00000:00000:00000:00054:00000" artCategory="Ministério do Desenvolvimento, Indústria, Comércio e Serviços/Instituto Nacional de Metrologia, Qualidade e Tecnologia" artSize="12" artNotes="OK IMAGEM" numberPage="304" pdfPage="http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=25/05/2023&amp;jornal=515&amp;pagina=304" editionNumber="99" highlightType="" highlightPriority="" highlight="" highlightimage="" highlightimagename="" idMateria="20626877">
+  <body>
+    <Identifica />
+    <Data><![CDATA[]]></Data>
+    <Ementa />
+    <Titulo />
+    <SubTitulo />
+    <Texto><![CDATA[<p>Onde:</p><p>D <sub>c</sub> - Distancia combinada Urbano e Estrada em km</p><p>D <sub>[CCU]</sub> - Distância percorrida no ciclo de condução urbano em km</p><p>D <sub>[CCE]</sub> - Distância percorrida no ciclo de condução estrada em km</p><p>E.3.2 Informação da distância percorrida para um VEB</p><p>D = Dc x 0.7</p><p>Onde:</p><p>Dc - Distancia combinada Urbano e Estrada em km</p><p>D - Distancia ponderada a ser declarado na ENCE para um VEB</p><p>E.3.3 Autonomia de operação exclusivamente no modo elétrico (AER)</p><p>Deve ser calculada através da seguinte fórmula:</p><p>D = 0.55 x D[CCU] + 0,45 x D[CCE]</p><p>Onde:</p><p>D - Distância ponderada para um VEHP</p><p>D[CCU] - Distância percorrida no ciclo de condução urbano em km</p><p>D[CCE] - Distância percorrida no ciclo de condução estrada em km</p><p>AER = D x 0.7</p><p>Onde:</p><p>AER - Autonomia de operação exclusivamente no modo elétrico, a ser declarado na ENCE para um</p><p>VEHP</p><p>D - Distância ponderada para um VEHP</p><p>E.4. EMISSÃO DE CO <sub>2</sub> FÓSSIL</p><p>E.4.1 Os valores apresentados na ENCE e nas divulgações sobre emissão de CO <sub>2</sub> fóssil deve considerar a relação expressa em g/km correspondente à emissão de dióxido de carbono (CO <sub>2</sub> ) pelo uso de combustível fóssil, excluídas a parcela da emissão relativa ao componente renovável do combustível, quando houver, nas condições do ensaio do ciclo urbano e ciclo estrada ponderados pelo critério da norma brasileira ABNT NBR 7024, calculado segundo a seguinte fórmula:</p><img name="1_MDIC_25_M1_012" />]]></Texto>
+  </body>
+  <Midias>
+    <Midia></Midia>
+  </Midias>
+</article></xml>

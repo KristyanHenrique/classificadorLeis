@@ -1,0 +1,13 @@
+﻿<xml><article id="32271451" name="Port 169_8" idOficio="9615618" pubName="DO1" artType="Portaria" pubDate="25/05/2023" artClass="00019:00038:00000:00000:00000:00000:00000:00000:00000:00000:00054:00000" artCategory="Ministério do Desenvolvimento, Indústria, Comércio e Serviços/Instituto Nacional de Metrologia, Qualidade e Tecnologia" artSize="12" artNotes="OK IMAGEM" numberPage="303" pdfPage="http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=25/05/2023&amp;jornal=515&amp;pagina=303" editionNumber="99" highlightType="" highlightPriority="" highlight="" highlightimage="" highlightimagename="" idMateria="20626877">
+  <body>
+    <Identifica />
+    <Data><![CDATA[]]></Data>
+    <Ementa />
+    <Titulo />
+    <SubTitulo />
+    <Texto><![CDATA[<p>Onde:</p><p>A <sub>eq</sub> = autonomia por litro equivalente ao combustível em km/l</p><p>A <sub>ele</sub> - autonomia por litro de energia elétrica equivalente ao combustível consumida no ensaio em km/l <sub>ele</sub> </p><p>(ECcd convertido em autonomia por litro equivalente - Conforme ABNT NBR 16567)</p><p>Acomb - Autonomia por litro de combustível consumido no ensaio em km/l</p><p>(Y <sub>ufw</sub> - Conforme ABNT NBR 16567)</p><p>UF - Fator de utilização na situação de distância teórica de redução de carga.</p><p>(UF <sub>[Rcdc]</sub> - Conforme ABNT NBR 16567)</p><p>E.1.1.8 Os valores da densidade energética dos combustíveis (DE) são definidas na Tabela 1:</p><p /><p></p><table><tr /><tr><td rowspan="1" colspan="2"><p>Tabela 1: Densidades energéticas</p><p>Combustíveis de referência</p><p>(MJ/l) ou (MJ/Nm³)</p></td></tr><tr><td rowspan="1" colspan="1"><p>E00</p></td><td rowspan="1" colspan="1"><p>31,65</p></td></tr><tr><td rowspan="1" colspan="1"><p>E22</p></td><td rowspan="1" colspan="1"><p>28,99</p></td></tr><tr><td rowspan="1" colspan="1"><p>AEHC</p></td><td rowspan="1" colspan="1"><p>20,09</p></td></tr><tr><td rowspan="1" colspan="1"><p>Diesel</p></td><td rowspan="1" colspan="1"><p>35,65</p></td></tr><tr><td rowspan="1" colspan="1"><p>GNV</p></td><td rowspan="1" colspan="1"><p>35,24</p></td></tr></table><p>E.1.1.9 Os combustíveis a serem utilizados para os ensaios devem atender aos requisitos definidos na norma ABNT NBR 8689.</p><p>E.2 AUTONOMIA</p><p>E.2.1 Autonomia dos veículos elétricos a bateria (VEB)</p><p>E.2.1.1 Para o cálculo da autonomia por litro de gasolina equivalente dos VEB, deverá ser considerada a densidade energética da gasolina, conforme a equação:</p><img name="1_MDIC_25_M1_006" />]]></Texto>
+  </body>
+  <Midias>
+    <Midia></Midia>
+  </Midias>
+</article></xml>

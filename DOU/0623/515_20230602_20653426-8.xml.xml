@@ -1,0 +1,13 @@
+﻿<xml><article id="32421384" name="2023-06-01 - RESOLUCAO 762 - Par" idOficio="9634986" pubName="DO1" artType="Resolução" pubDate="02/06/2023" artClass="00014:00020:00004:00017:00000:00000:00000:00000:00000:00000:00002:00012" artCategory="Ministério das Comunicações/Agência Nacional de Telecomunicações/Conselho Diretor/Secretaria do Conselho Diretor" artSize="12" artNotes="762 - 2" numberPage="26" pdfPage="http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=02/06/2023&amp;jornal=515&amp;pagina=26" editionNumber="105" highlightType="" highlightPriority="" highlight="" highlightimage="" highlightimagename="" idMateria="20653426">
+  <body>
+    <Identifica />
+    <Data><![CDATA[]]></Data>
+    <Ementa />
+    <Titulo />
+    <SubTitulo />
+    <Texto><![CDATA[<p>sendo,</p><p>T <sub>r</sub> : temperatura de ruído na entrada do receptor ( <sup>o</sup> K), incluídas as contribuições de todas as etapas sucessivas em relação aos terminais de entrada do receptor. Pode ser obtido através de da expressão:</p><p>T <sub>r</sub> (°K) = T <sub>1</sub> + (T <sub>2</sub> / G <sub>1</sub> ) + [T <sub>3</sub> / (G <sub>1</sub> ·G <sub>2</sub> )] + ··· + [T <sub>n</sub> / (G <sub>1</sub> ·G <sub>2</sub> ··· G <sub>n-1</sub> )]</p><p>sendo,</p><p>n: número de etapas do receptor</p><p>T <sub>1</sub> : temperatura de ruído da primeira etapa</p><p>T <sub>2</sub> : temperatura de ruído da segunda etapa</p><p>T <sub>n</sub> : temperatura de ruído da última etapa</p><p>G <sub>1</sub> : valor do ganho da primeira etapa.</p><p>G <sub>2</sub> : valor do ganho da segunda etapa.</p><p>G <sub>n-1</sub> : valor do ganho da penúltima etapa.</p><p>Se o valor do fator de ruído do receptor, F, for conhecido, a temperatura de ruído na entrada do mesmo pode ser estimada por:</p><img name="1_MCOM_2_009" />]]></Texto>
+  </body>
+  <Midias>
+    <Midia></Midia>
+  </Midias>
+</article></xml>

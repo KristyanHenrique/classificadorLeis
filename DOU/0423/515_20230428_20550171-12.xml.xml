@@ -1,0 +1,13 @@
+﻿<xml><article id="31834156" name="RESOLUCAO BCB 313_12" idOficio="9560104" pubName="DO1" artType="Resolução" pubDate="28/04/2023" artClass="00051:00017:00000:00000:00000:00000:00000:00000:00000:00000:00064:00013" artCategory="Banco Central do Brasil/Diretoria Colegiada" artSize="12" artNotes="Ok Imagem" numberPage="122" pdfPage="http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=28/04/2023&amp;jornal=515&amp;pagina=122" editionNumber="81" highlightType="" highlightPriority="" highlight="" highlightimage="" highlightimagename="" idMateria="20550171">
+  <body>
+    <Identifica />
+    <Data><![CDATA[]]></Data>
+    <Ementa />
+    <Titulo />
+    <SubTitulo />
+    <Texto><![CDATA[<p>em que:</p><p>I - j indica um dos índices de crédito CTP, conforme definidos no art. 32;</p><p>II - JTDL_ctp_cpa corresponde a uma JTDL comprada relacionada ao índice j;</p><p>III - JTDL_ctp_vda corresponde a uma JTDL vendida relacionada ao índice j;</p><p>IV - HBRctp é a razão de hedge apurada conforme art. 33;</p><p>V - RW é o ponderador de risco relacionado à JTDL, determinado conforme o art. 34;</p><p>VI - Abs(.) é a função que retorna o valor absoluto do parâmetro;</p><p>VII - k é o número de JTDL_ctp_cpa relacionadas ao índice j; e</p><p>VIII - m é o número de JTDL_ctp_vda relacionadas ao índice j.</p><p>Art. 36. O requerimento de capital do DRCctp deve ser apurado de acordo com a seguinte fórmula:</p><img name="1_BCB_28_M1_012" />]]></Texto>
+  </body>
+  <Midias>
+    <Midia></Midia>
+  </Midias>
+</article></xml>
